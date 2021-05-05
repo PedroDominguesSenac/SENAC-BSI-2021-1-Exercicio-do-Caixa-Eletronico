@@ -1,4 +1,5 @@
 Crie um algoritmo de caixa eletrônico que dispense
+
 o menor número de notas para um dado valor solicitado.
 
 Notas disponíveis:
